@@ -1,0 +1,14 @@
+---
+kind: application
+metadata:
+  name: World Clocks
+  description: Clocks from around the world
+spec:
+  url: https://github.com/desktop-examples/world-clocks/
+  window:
+    autoHideMenuBar: true
+    backgroundColor: "#1d1d26"
+    height: 110
+    title: World Clocks
+    titleBarStyle: hidden
+    width: 380

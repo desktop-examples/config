@@ -1,0 +1,53 @@
+###############################################################################
+## Applications
+###############################################################################
+---
+kind: application
+metadata:
+  name: World Clocks
+  description: Clocks from around the world
+spec:
+  url: https://github.com/desktop-examples/world-clocks
+  window:
+    autoHideMenuBar: true
+    backgroundColor: "#1d1d26"
+    height: 110
+    title: World Clocks
+    titleBarStyle: hidden
+    width: 380
+    x: 0
+    y: 0
+
+---
+kind: application
+metadata:
+  name: Stock Chart
+  description: OHLCV daily data
+spec:
+  url: https://github.com/desktop-examples/stock-chart/
+  window:
+    autoHideMenuBar: true
+    backgroundColor: "#1d1d26"
+    height: 300
+    title: Stock Chart
+    titleBarStyle: hidden
+    width: 700
+    x: 380
+    y: 0
+
+---
+kind: application
+metadata:
+  name: Crypto Analysis
+  description: Visualisation of Crypto Exchanges
+spec:
+  url: https://github.com/desktop-examples/crypto-analysis/
+  window:
+    autoHideMenuBar: true
+    backgroundColor: "#1d1d26"
+    height: 550
+    title: Crypto Analysis
+    titleBarStyle: hidden
+    width: 1080
+    x: 0
+    y: 325
