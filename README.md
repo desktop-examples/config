@@ -7,11 +7,11 @@ This repo contains example config for [Desktop](https://github.com/reactivemarke
 Single window application
 
 ```bash
-desktop -f https://gitlab.com/reactivemarkets/Desktop/examples/config/raw/master/examples/single-window.yaml
+desktop -f https://raw.githubusercontent.com/desktop-examples/config/master/examples/single-window.yaml
 ```
 
 Basic multi-window application
 
 ```bash
-desktop -f https://gitlab.com/reactivemarkets/Desktop/examples/config/raw/master/examples/multi-window.yaml
+desktop -f https://raw.githubusercontent.com/desktop-examples/config/master/examples/multi-window.yaml
 ```
