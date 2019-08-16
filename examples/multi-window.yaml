@@ -7,7 +7,7 @@ metadata:
   name: World Clocks
   description: Clocks from around the world
 spec:
-  url: https://github.com/desktop-examples/world-clocks
+  url: https://desktop-examples.github.io/world-clocks
   window:
     autoHideMenuBar: true
     backgroundColor: "#1d1d26"
@@ -24,7 +24,7 @@ metadata:
   name: Stock Chart
   description: OHLCV daily data
 spec:
-  url: https://github.com/desktop-examples/stock-chart/
+  url: https://desktop-examples.github.io/stock-chart/
   window:
     autoHideMenuBar: true
     backgroundColor: "#1d1d26"
@@ -41,7 +41,7 @@ metadata:
   name: Crypto Analysis
   description: Visualisation of Crypto Exchanges
 spec:
-  url: https://github.com/desktop-examples/crypto-analysis/
+  url: https://desktop-examples.github.io/crypto-analysis/
   window:
     autoHideMenuBar: true
     backgroundColor: "#1d1d26"
