@@ -7,7 +7,7 @@ metadata:
   name: World Clocks
   description: Clocks from around the world
 spec:
-  url: https://desktop-examples.github.io/world-clocks
+  url: https://desktop-examples.github.io/world-clocks/
   window:
     autoHideMenuBar: true
     backgroundColor: "#1d1d26"
